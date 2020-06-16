@@ -1,6 +1,6 @@
 # scrapingBooking
 
-Questo programma in Python permette di fare uno scraping da Booking.com; dopo aver inserito nelle variabili iniziali i parametri del viaggio come ad esempio (giorno di arrivo, partenza, persone, etc.) scarica le seguenti informazioni dalle strutture:
+Questo programma in Python permette di fare uno scraping da Booking.com. Le città presenti nell'array di ricerca fanno riferimento ai capoluoghi delle province italiane e, dopo aver inserito nelle variabili iniziali i parametri del viaggio come ad esempio (giorno di arrivo, partenza, persone, etc.), scarica le seguenti informazioni dalle strutture:
 
 - data odierna, ovvero il giorno in cui è stata effettuato lo scraping
 - citta
