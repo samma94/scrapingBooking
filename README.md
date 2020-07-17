@@ -15,4 +15,4 @@ In output restituisce una file (.csv) con le informazioni precedenti
 
 Questo programma restituisce il numero di strutture disponibili totali in una determinata città senza alcun parametro di ricerca
 
-#![alt text](http://url/to/Immagine.png)
+#![alt text](https://github.com/samma94/scrapingBooking/blob/master/Immagine1.png)
