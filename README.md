@@ -14,3 +14,5 @@ In output restituisce una file (.csv) con le informazioni precedenti
 # Scraping NumeroStruttureDisponibili
 
 Questo programma restituisce il numero di strutture disponibili totali in una determinata città senza alcun parametro di ricerca
+
+#![alt text](http://url/to/Immagine.png)
